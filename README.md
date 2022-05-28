@@ -11,15 +11,15 @@ REST-API REQUEST 127.0.0.1:5000/player/Trae Young
 
 ENDPOINTS:
 
-  /teams - return json of all teams
+  - /teams - return json of all teams
 
-  /team/<name> - return json of team with that name
+  - /team/<name> - return json of team with that name
 
-  /players - return json of all players
+  - /players - return json of all players
 
-  /player/<name> - return json of player with that name
+  - /player/<name> - return json of player with that name
 
-  /login - used for login, return JWT-TOKEN upon succesfull login
+  - /login - used for login, return JWT-TOKEN upon succesfull login
 
-  /register - used for registration
+  - /register - used for registration
 
